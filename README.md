@@ -33,7 +33,7 @@ The Flask API is deployed on Render, ensuring high availability and performance 
 ![image](https://github.com/YashGarg969/AutoGenie/assets/112561468/3e88586e-53ff-48d9-ba5b-d939d81c0133)
 
 # App Video
-[![Watch the video](https://drive.google.com/file/d/14StUnWu9XlVpf7ZK2a-t20aGeg1EwMzD/view?usp=drive_link)
+https://drive.google.com/file/d/14StUnWu9XlVpf7ZK2a-t20aGeg1EwMzD/view?usp=drive_link
 
 
 
