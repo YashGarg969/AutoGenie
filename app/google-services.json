@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780969642439",
+    "project_id": "autogenie-c2de2",
+    "storage_bucket": "autogenie-c2de2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780969642439:android:141e52cc6b48d88ad231e2",
+        "android_client_info": {
+          "package_name": "com.yashgarg969_androiddev.autogenie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGHGDW54Catvlu8NGlFG8amcY9UuZk2ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
