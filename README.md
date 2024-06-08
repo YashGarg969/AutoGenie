@@ -26,4 +26,16 @@ The Flask API is deployed on Render, ensuring high availability and performance 
 
 # App Screenshots
 ![image](https://github.com/YashGarg969/AutoGenie/assets/112561468/c4754d19-7250-4e22-8845-5f541f7de62b)
+![image](https://github.com/YashGarg969/AutoGenie/assets/112561468/299058e7-76b9-457a-b5bb-d21f44d3f6e4)
+![Screenshot 2024-03-13 121331](https://github.com/YashGarg969/AutoGenie/assets/112561468/307e95f8-f26e-496d-b645-5a0ea81fb474)
+![image](https://github.com/YashGarg969/AutoGenie/assets/112561468/7989e3a6-35e3-4c82-9ad1-519441eaec30)
+![image](https://github.com/YashGarg969/AutoGenie/assets/112561468/04b37d14-d4e2-4ab1-8ff5-967080a1c1bd)
+![image](https://github.com/YashGarg969/AutoGenie/assets/112561468/3e88586e-53ff-48d9-ba5b-d939d81c0133)
+
+# App Video
+[![Watch the video](https://drive.google.com/file/d/14StUnWu9XlVpf7ZK2a-t20aGeg1EwMzD/view?usp=drive_link)
+
+
+
+
 
