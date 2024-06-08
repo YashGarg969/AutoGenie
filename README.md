@@ -23,3 +23,7 @@ Matrix Factorization: Decomposes user-item interaction matrix to generate person
 
 # Deployment:
 The Flask API is deployed on Render, ensuring high availability and performance for users accessing the app.
+
+# App Screenshots
+![image](https://github.com/YashGarg969/AutoGenie/assets/112561468/c4754d19-7250-4e22-8845-5f541f7de62b)
+
